@@ -1,13 +1,9 @@
-# Template: Standard Robot Framework
+# Inhuman Insurance Robot Project from Robocorp Level 3 Course
 
-Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+A project to migrate Fatality Rate Data to a custom endpoint. Working with Work Data Management and [Work Items](https://robocorp.com/docs/development-guide/control-room/work-items#what-is-a-work-item) to solve failure problem and do parallel processes with Work Items.
 
-This template robot:
+# What important lesson from this project?
 
-- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
-- Provides a simple task template to start from (`tasks.robot`).
-
-## Learning materials
-
-- [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
+- Work Data Management with Work Items.
+- How to handle application error with Work Items.
+- Data management and filtering with [RPA.Tables](https://robocorp.com/docs/libraries/rpa-framework/rpa-tables).
